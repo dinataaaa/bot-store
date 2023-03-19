@@ -1,0 +1,21 @@
+{
+  "name": "bot-store",
+  "version": "1.0.0",
+  "description": "Program bot store",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Test Perintah Sukses\""
+  },
+  "author": {
+    "name": "Reza Dinata",
+    "email": "arsmdinata@gmail.com"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^1.3.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
